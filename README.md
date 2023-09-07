@@ -1,2 +1,7 @@
 # Merge Sort Algorithm
-In a coding journey that spans the digital realm, Vighnesh has conquered the intricacies of Assembly Language. By successfully implementing the Merge Sort algorithm, a feat known to few, they've demonstrated a profound understanding of low-level programming, recursion, and algorithmic complexity. With this achievement, Vighnesh has etched their name among the elite coders who navigate the depths of machine language with finesse.
+Vighnesh authored the Merge Sort algorithm, which is a highly efficient sorting technique. This algorithm works by recursively dividing an array into smaller sub-arrays, sorting them individually, and then merging them to obtain a fully sorted array. It is known for its stability and is often employed in various applications due to its reliable performance.
+
+
+
+
+
